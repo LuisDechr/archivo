@@ -1,12 +1,16 @@
-# Mi primer programa para GitHub
+# Mi Primer Repositorio
 
-def saludar(nombre):
-    return f"¡Hola, {nombre}! Bienvenido a GitHub."
+¡Hola! 👋
 
-def main():
-    print("=== Mi Primer Proyecto en GitHub ===")
-    nombre = input("¿Cómo te llamas? ")
-    print(saludar(nombre))
+Este es mi primer repositorio en GitHub.
 
-if __name__ == "__main__":
-    main()
+## Objetivos
+
+- Aprender a usar Git.
+- Crear commits.
+- Subir archivos a GitHub.
+- Practicar con ramas.
+
+## Autor
+
+**Luis Decaro**
